@@ -1,0 +1,8 @@
+venv
+vocab
+wandb
+lightning_logs
+hub
+cache
+model
+cache
