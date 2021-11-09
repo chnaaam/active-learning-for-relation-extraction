@@ -1,5 +1,4 @@
 venv
-vocab
 wandb
 lightning_logs
 hub
