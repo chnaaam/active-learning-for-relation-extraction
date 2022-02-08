@@ -1,7 +1,9 @@
 venv
-wandb
+data
 lightning_logs
 hub
 cache
 model
 cache
+workspace.code-workspace
+.vscode
